@@ -1,0 +1,50 @@
+{
+  "name": "reactnative",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "@eliav2/react-native-collapsible-view": "^1.4.0",
+    "@jialing/react-native-accordion": "^1.0.3",
+    "@react-navigation/native": "^6.0.8",
+    "@react-navigation/native-stack": "^6.5.0",
+    "@react-navigation/stack": "^6.1.1",
+    "axios": "^0.26.1",
+    "expo": "~44.0.0",
+    "expo-constants": "~13.0.1",
+    "expo-device": "~4.1.0",
+    "expo-notifications": "~0.14.0",
+    "expo-secure-store": "~11.1.0",
+    "expo-status-bar": "~1.2.0",
+    "popup-ui": "^1.2.2",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-native": "^0.64.3",
+    "react-native-animatable": "^1.3.3",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-elements": "^3.4.2",
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-paper": "^4.11.2",
+    "react-native-reanimated": "^2.4.1",
+    "react-native-screens": "~3.10.1",
+    "react-native-svg": "12.1.1",
+    "react-native-touchable-scale": "^2.1.2",
+    "react-native-web": "0.17.1",
+    "react-navigation": "^4.4.4",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.1",
+    "victory-native": "^36.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
